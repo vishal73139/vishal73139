@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <p align="center">
-  <a href="">
+  <a href="https://github.com/vishal73139">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="">
+  <a href="https://github.com/vishal73139">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="">
+  <a href="https://github.com/vishal73139">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
-  <a href="">
+  <a href="https://github.com/vishal73139">
     <img src="https://img.shields.io/badge/email-%23d14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="">
+  <a href="https://github.com/vishal73139">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
