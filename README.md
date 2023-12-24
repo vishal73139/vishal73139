@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋
 
 <!--
 **vishal73139/vishal73139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## Hi there, I'm Vishal Sharma! 
+## I'm Vishal Sharma! 
 
 An experienced, disciplined, and highly-motivated IT programmer , Certified Scrum Master , Full Stack Developer , Team Lead with over
 13+ years of experience with Web Programming Languages: React js , Node js , Java , Php , jQuery , Angular js , Javascript , Css , Html , Sql
