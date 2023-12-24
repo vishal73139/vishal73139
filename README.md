@@ -34,7 +34,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=promehedi&style=flat-square&color=blue" alt=""></h1>
 
 ## Hi there, I'm Vishal Sharma! 
 
